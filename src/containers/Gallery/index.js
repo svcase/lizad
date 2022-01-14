@@ -1,21 +1,23 @@
 import React, { useState } from 'react';
 import '../../styles/home.css';
 
-const image1 = "images/img_01.jpg";
-const image2 = "images/img_02.jpg";
-const image3 = "images/img_03.jpg";
-const image4 = "images/img_04.jpg";
-const image5 = "images/img_05.jpg";
-const image6 = "images/img_06.jpg";
-const image7 = "images/img_07.jpg";
-const image8 = "images/img_08.jpg";
-const image9 = "images/img_09.jpg";
-const image11 = "images/img_11.jpg";
-const image12 = "images/img_12.jpg";
-const image13 = "images/img_13.jpg";
-const image14 = "images/img_14.jpg";
-const image15 = "images/img_15.jpg";
-const image17 = "images/carl.JPG";
+//just "images/img_01.jpg" in local dev
+
+const image1 = `${process.env.PUBLIC_URL}/images/img_01.jpg`;
+const image2 = `${process.env.PUBLIC_URL}/images/img_02.jpg`;
+const image3 = `${process.env.PUBLIC_URL}/images/img_03.jpg`;
+const image4 = `${process.env.PUBLIC_URL}/images/img_04.jpg`;
+const image5 = `${process.env.PUBLIC_URL}/images/img_05.jpg`;
+const image6 = `${process.env.PUBLIC_URL}/images/img_06.jpg`;
+const image7 = `${process.env.PUBLIC_URL}/images/img_07.jpg`;
+const image8 = `${process.env.PUBLIC_URL}/images/img_08.jpg`;
+const image9 = `${process.env.PUBLIC_URL}/images/img_09.jpg`;
+const image11 = `${process.env.PUBLIC_URL}/images/img_11.JPG`;
+const image12 = `${process.env.PUBLIC_URL}/images/img_12.JPG`;
+const image13 = `${process.env.PUBLIC_URL}/images/img_13.JPG`;
+const image14 = `${process.env.PUBLIC_URL}/images/img_14.jpg`;
+const image15 = `${process.env.PUBLIC_URL}/images/img_15.jpg`;
+const image17 = `${process.env.PUBLIC_URL}/images/carl.JPG`;
 
 const images = [image15, image13, image17, image6, image2, image7, image8, image4, image9, image3, image1, image5, image11, image14, image12];
 
