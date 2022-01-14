@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lizad/precache-manifest.571b05c74e7e25b701cc2cf3f477a62a.js"
+  "/lizad/precache-manifest.f478f11d713c00ca1262179b1db9ea46.js"
 );
 
 self.addEventListener('message', (event) => {
