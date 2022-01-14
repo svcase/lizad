@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lizad/static/css/main.19a93d44.chunk.css",
-    "main.js": "/lizad/static/js/main.fa0fb0b9.chunk.js",
-    "main.js.map": "/lizad/static/js/main.fa0fb0b9.chunk.js.map",
+    "main.js": "/lizad/static/js/main.0ad6f316.chunk.js",
+    "main.js.map": "/lizad/static/js/main.0ad6f316.chunk.js.map",
     "runtime-main.js": "/lizad/static/js/runtime-main.b04d9acc.js",
     "runtime-main.js.map": "/lizad/static/js/runtime-main.b04d9acc.js.map",
     "static/js/2.7634d88e.chunk.js": "/lizad/static/js/2.7634d88e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0acd0193.chunk.js": "/lizad/static/js/3.0acd0193.chunk.js",
     "static/js/3.0acd0193.chunk.js.map": "/lizad/static/js/3.0acd0193.chunk.js.map",
     "index.html": "/lizad/index.html",
-    "precache-manifest.6c2d3af4a1df0a8f9a7d053811719905.js": "/lizad/precache-manifest.6c2d3af4a1df0a8f9a7d053811719905.js",
+    "precache-manifest.3e20ddca2c47c8bffd8a8694d9feed82.js": "/lizad/precache-manifest.3e20ddca2c47c8bffd8a8694d9feed82.js",
     "service-worker.js": "/lizad/service-worker.js",
     "static/css/main.19a93d44.chunk.css.map": "/lizad/static/css/main.19a93d44.chunk.css.map",
     "static/js/2.7634d88e.chunk.js.LICENSE.txt": "/lizad/static/js/2.7634d88e.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.b04d9acc.js",
     "static/js/2.7634d88e.chunk.js",
     "static/css/main.19a93d44.chunk.css",
-    "static/js/main.fa0fb0b9.chunk.js"
+    "static/js/main.0ad6f316.chunk.js"
   ]
 }
