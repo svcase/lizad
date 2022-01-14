@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5373561b5e2cd7d4bbd675fff803b56",
+    "revision": "bad24ed89973dba82c836c8cad16b287",
     "url": "/lizad/index.html"
   },
   {
-    "revision": "6d7d4c4f9b3697557e17",
+    "revision": "31d849624a116b8926a4",
     "url": "/lizad/static/css/main.19a93d44.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lizad/static/js/3.0acd0193.chunk.js"
   },
   {
-    "revision": "6d7d4c4f9b3697557e17",
-    "url": "/lizad/static/js/main.63951a7c.chunk.js"
+    "revision": "31d849624a116b8926a4",
+    "url": "/lizad/static/js/main.7d1a9924.chunk.js"
   },
   {
     "revision": "a73d2b776c48967bd9dc",
