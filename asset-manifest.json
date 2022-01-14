@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lizad/static/css/main.19a93d44.chunk.css",
+    "main.js": "/lizad/static/js/main.3b7496a0.chunk.js",
+    "main.js.map": "/lizad/static/js/main.3b7496a0.chunk.js.map",
+    "runtime-main.js": "/lizad/static/js/runtime-main.b04d9acc.js",
+    "runtime-main.js.map": "/lizad/static/js/runtime-main.b04d9acc.js.map",
+    "static/js/2.7634d88e.chunk.js": "/lizad/static/js/2.7634d88e.chunk.js",
+    "static/js/2.7634d88e.chunk.js.map": "/lizad/static/js/2.7634d88e.chunk.js.map",
+    "static/js/3.0acd0193.chunk.js": "/lizad/static/js/3.0acd0193.chunk.js",
+    "static/js/3.0acd0193.chunk.js.map": "/lizad/static/js/3.0acd0193.chunk.js.map",
+    "index.html": "/lizad/index.html",
+    "precache-manifest.9492d8a3ae626205b634fbf6ab538147.js": "/lizad/precache-manifest.9492d8a3ae626205b634fbf6ab538147.js",
+    "service-worker.js": "/lizad/service-worker.js",
+    "static/css/main.19a93d44.chunk.css.map": "/lizad/static/css/main.19a93d44.chunk.css.map",
+    "static/js/2.7634d88e.chunk.js.LICENSE.txt": "/lizad/static/js/2.7634d88e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lizad/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b04d9acc.js",
+    "static/js/2.7634d88e.chunk.js",
+    "static/css/main.19a93d44.chunk.css",
+    "static/js/main.3b7496a0.chunk.js"
+  ]
+}
