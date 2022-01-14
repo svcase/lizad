@@ -1,0 +1,38 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f9f9f9;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.copyright {
+  align-items: flex-start;
+  margin-left: 7%;
+}
+
+.footerSocial {
+  align-items: flex-start;
+}
+
+.footerSocialItem {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #000000;
+}
+
+.madeBy {
+  align-items: flex-end;
+  margin-right: 7%;
+}
+
+.footerText {
+  font-size: 0.7rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.madeLink {
+  text-decoration: none;
+  margin-top: 0;
+}
