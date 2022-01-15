@@ -15,10 +15,12 @@ import {
   Link
 } from "react-router-dom";
 
+//delete basename for local dev
+
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/lizad">
 
         <NavBar />
 
