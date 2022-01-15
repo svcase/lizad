@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "382d13f47df2ba08bb6cf5d00dd99299",
+    "revision": "fff06cc44b2960af72ea3a723ccb57f9",
     "url": "/lizad/index.html"
   },
   {
-    "revision": "8ce0e67aa6b1aa6e8ccc",
+    "revision": "0ec11b1d971378993eba",
     "url": "/lizad/static/css/main.19a93d44.chunk.css"
   },
   {
-    "revision": "7a385924997f58a6b0f4",
-    "url": "/lizad/static/js/2.33b9a6e6.chunk.js"
+    "revision": "85c340a4d1ac54010302",
+    "url": "/lizad/static/js/2.7634d88e.chunk.js"
   },
   {
     "revision": "4aa839f25784e6ec59906b932c7e8c9f",
-    "url": "/lizad/static/js/2.33b9a6e6.chunk.js.LICENSE.txt"
+    "url": "/lizad/static/js/2.7634d88e.chunk.js.LICENSE.txt"
   },
   {
     "revision": "def0f756bdae2f10139c",
     "url": "/lizad/static/js/3.0acd0193.chunk.js"
   },
   {
-    "revision": "8ce0e67aa6b1aa6e8ccc",
-    "url": "/lizad/static/js/main.12e7d99e.chunk.js"
+    "revision": "0ec11b1d971378993eba",
+    "url": "/lizad/static/js/main.d72f309e.chunk.js"
   },
   {
     "revision": "a73d2b776c48967bd9dc",
