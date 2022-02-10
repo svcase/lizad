@@ -20,7 +20,7 @@ import {
 function App() {
   return (
     <div className="App">
-      <Router basename="/lizad">
+      <Router>
 
         <NavBar />
 
