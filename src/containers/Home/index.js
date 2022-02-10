@@ -11,7 +11,7 @@ const Home = () => {
         <h1>Liza Darlington Art</h1>
       </div>
       <div className="titleImage">
-        <img className="homeImage" src={`${process.env.PUBLIC_URL}/images/img_16.JPG`} alt="home img" />
+        <img className="homeImage" src={`${process.env.PUBLIC_URL}/images/portrait.jpg`} alt="home img" />
       </div>
     </div>
 

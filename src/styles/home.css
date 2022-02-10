@@ -12,7 +12,7 @@ margin-top: 5%;
 }
 
 .homeImage {
-  width: 75%;
+  width: 50%;
   border: 1px solid #ddd;
   padding: 1%;
   box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.2);
@@ -128,6 +128,13 @@ margin-top: 5%;
   cursor: pointer;
 }
 
+.finalImg {
+  width: 70%;
+  border: 1px solid #ddd;
+  padding: 1%;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.2);
+}
+
 
 
 /* /////////////////////////////////modal/////////////////////////////// */
@@ -222,8 +229,8 @@ margin-top: 5%;
     font-size: 1.7rem;
   }
 
-  .carlImage {
-    width: 70%;
+  .homeImage {
+    width: 80%;
   }
 
   .galleryContainer {
@@ -279,6 +286,14 @@ margin-top: 5%;
   .aboutText {
     width: 45%;
     text-align: left;
-    font-size: 0.75rem;
+    font-size: 0.7rem;
+  }
+
+  .imageContainer {
+    margin-top: 7%;
+  }
+
+  .finalImg {
+    width: 80%;
   }
 }

@@ -19,6 +19,9 @@ const Contact = () => {
           <a href="mailto:darlington.liza@gmail.com" className="emailLink">Email Liza</a>
         </div>
       </div>
+      <div className="imageContainer">
+        <img className="finalImg" src={`${process.env.PUBLIC_URL}/images/img_16.JPG`} alt="contact img"/>
+      </div>
     </div>
   );
 

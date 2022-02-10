@@ -12,7 +12,7 @@ const About = () => {
       </div>
       <div className="aboutRow">
         <img className="aboutImg" src={`${process.env.PUBLIC_URL}/images/img_18.JPG`} alt="img 18" />
-        <p className="aboutText">She explores her own identity, and that of her communities, using portraiture, natural symbols, and fonts.</p>
+        <p className="aboutText">She explores her own identity, and that of her communities, using portraiture, natural symbols, and fonts. Liza uses a variety of mediums including water-mixable oils, acrylics, water colors, and digital paints.</p>
       </div>
       <div className="aboutRow">
         <p className="aboutText">Through her murals, Liza seeks to mirror, perpetuate, and challenge collective memory.</p>
