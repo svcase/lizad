@@ -4,6 +4,7 @@ import '../../styles/home.css';
 //just "images/img_16.JPG" in local dev
 
 const Home = () => {
+
   return (
 
     <div className="titleSection">
