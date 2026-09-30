@@ -9,7 +9,7 @@ const Contact = () => {
       <div className="instaContainer">
         <p>For the latest from Liza, visit her on Instagram:</p>
         <div className="instaBtn">
-          <a href="https://www.instagram.com/liza.darling/?hl=en" target="_blank" className="instaLink"> <FaInstagram className="instaIcon"/> liza.darling</a>
+          <a href="https://www.instagram.com/darlingtonliza/?hl=en" target="_blank" className="instaLink"> <FaInstagram className="instaIcon"/> darlingtonliza</a>
         </div>
       </div>
       <div className="emailContainer">

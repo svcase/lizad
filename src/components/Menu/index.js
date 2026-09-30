@@ -10,7 +10,7 @@ function Menu(props) {
       <Link className={props.menuClass} to={"/about"}> About </Link>
       <Link className={props.menuClass} to={"/contact"}> Contact </Link>
       <div className={props.menuClass}>
-        <a className="socialItem" href="https://www.instagram.com/liza.darling/?hl=en" target="_blank"> <FaInstagram /> </a>
+        <a className="socialItem" href="https://www.instagram.com/darlingtonliza/?hl=en" target="_blank"> <FaInstagram /> </a>
       </div>
     </div>
   );

@@ -20,11 +20,11 @@ function Footer() {
         <p className="footerText">Liza Darlington</p>
       </div>
       <div className="footerSocial">
-        <a className="footerSocialItem" href="https://www.instagram.com/liza.darling/?hl=en" target="_blank"> <FaInstagram /> </a>
+        <a className="footerSocialItem" href="https://www.instagram.com/darlingtonliza/?hl=en" target="_blank"> <FaInstagram /> </a>
       </div>
       <div className="madeBy">
-        <p className="footerText">Website By:</p>
-        <a className="footerText madeLink" href="http://samuelcase.com/" target="_blank">Sam Case</a>
+        {/* <p className="footerText">Liza Darlington</p>
+        <a className="footerText madeLink" href="http://samuelcase.com/" target="_blank">Sam Case</a> */}
       </div>
     </div>
   );

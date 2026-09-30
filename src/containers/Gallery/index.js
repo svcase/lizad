@@ -18,8 +18,11 @@ const image13 = `${process.env.PUBLIC_URL}/images/img_13.JPG`;
 const image14 = `${process.env.PUBLIC_URL}/images/img_14.jpg`;
 const image15 = `${process.env.PUBLIC_URL}/images/img_15.jpg`;
 const image17 = `${process.env.PUBLIC_URL}/images/carl.JPG`;
+const image19 = `${process.env.PUBLIC_URL}/images/img_19.jpg`;
+const image20 = `${process.env.PUBLIC_URL}/images/img_20.jpg`;
+const image21 = `${process.env.PUBLIC_URL}/images/img_21.jpg`;
 
-const images = [image15, image13, image17, image6, image2, image7, image8, image4, image9, image3, image1, image5, image11, image14, image12];
+const images = [image15, image4, image17, image6, image2, image7, image8, image13, image9, image19, image14, image1, image3, image20, image5, image11, image21, image12];
 
 const Gallery = () => {
 
@@ -62,7 +65,7 @@ const Gallery = () => {
     <div className="galleryContainer">
       <div className="galleryRow">
         <img className="galleryImg" onClick={() => showImage(image15)} src={image15} alt="img 15" />
-        <img className="galleryImg" onClick={() => showImage(image13)} src={image13} alt="img 13" />
+        <img className="galleryImg" onClick={() => showImage(image4)} src={image4} alt="img 4" />
         <img className="galleryImg" onClick={() => showImage(image17)} src={image17} alt="img 17" />
       </div>
       <div className="galleryRow">
@@ -70,20 +73,24 @@ const Gallery = () => {
         <img className="galleryImg" onClick={() => showImage(image2)} src={image2} alt="img 02" />
         <img className="galleryImg" onClick={() => showImage(image7)} src={image7} alt="img 07" />
       </div>
-
       <div className="galleryRow">
         <img className="galleryImg" onClick={() => showImage(image8)} src={image8} alt="img 8" />
-        <img className="galleryImg" onClick={() => showImage(image4)} src={image4} alt="img 4" />
+        <img className="galleryImg" onClick={() => showImage(image13)} src={image13} alt="img 13" />
         <img className="galleryImg" onClick={() => showImage(image9)} src={image9} alt="img 9" />
+      </div>
+      <div className="galleryRow">
+        <img className="galleryImg" onClick={() => showImage(image19)} src={image19} alt="img 19" />
+        <img className="galleryImg" onClick={() => showImage(image14)} src={image14} alt="img 14" />
+        <img className="galleryImg" onClick={() => showImage(image1)} src={image1} alt="img 01" />
       </div>
       <div className="galleryRowLast">
         <img className="galleryImg" onClick={() => showImage(image3)} src={image3} alt="img 03" />
-        <img className="galleryImg" onClick={() => showImage(image1)} src={image1} alt="img 01" />
+        <img className="galleryImg" onClick={() => showImage(image20)} src={image20} alt="img 20" />
         <img className="galleryImg" onClick={() => showImage(image5)} src={image5} alt="img 5" />
       </div>
       <div className="galleryRowLast">
         <img className="galleryImg" onClick={() => showImage(image11)} src={image11} alt="img 11" />
-        <img className="galleryImg" onClick={() => showImage(image14)} src={image14} alt="img 14" />
+        <img className="galleryImg" onClick={() => showImage(image21)} src={image21} alt="img 21" />
         <img className="galleryImg" onClick={() => showImage(image12)} src={image12} alt="img 12" />
       </div>
       { lightboxDisplay ?
